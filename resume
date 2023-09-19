@@ -1,0 +1,6 @@
+git clone <repository_url>
+cd <repository_directory>
+git add <resume_tanya_rajani>
+git add resume_tanya_rajani
+git commit -m "Added <resume_tanya_rajani>"
+git push origin main
